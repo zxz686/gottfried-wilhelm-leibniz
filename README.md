@@ -1,6 +1,10 @@
 # 戈特弗里德·威廉·莱布尼茨原著文献文库与哲学思想模拟系统
 ## Bibliotheca Leibnitiana & Systema Philosophicum Gotofredi Guilielmi Leibnitii
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-zxz686%2Fgottfried--wilhelm--leibniz-black?logo=github)](https://github.com/zxz686/gottfried-wilhelm-leibniz)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+
 ---
 
 ### 项目导言 (Project Overview)
@@ -98,3 +102,15 @@ primary_sources/
 | **书信论辩与枢密顾问模态** | 讨论宿命论、恶的起源、相对时空、上帝与自然法则 | 崇高礼节与刀锋逻辑、充足理由律、关系时空观、恶的三重剖析 |
 | **Calculemus! 演算模态** | 面对复杂概念混淆、争论死锁或逻辑结构建构 | 概念原子化、符号演算、普遍文字、整除性逻辑验证 |
 | **前沿科技裁决模态** | 裁决现代AI、通用人工智能（AGI）、量子纠缠、多元宇宙 | 莱布尼茨磨坊思想实验、前定和谐与量子纠缠、共可能性世界 |
+
+---
+
+## 四、开源协议与学术共享 (Open Source License & Sharing)
+
+本项目采用 **MIT 开源许可证**：
+- 莱布尼茨于 17–18 世纪创作的历史原著文本（位于 `primary_sources/` 目录）属于**全球公共领域（Public Domain）**；
+- 本项目中整理的高阶哲学通论分析、双语导读架构、编年对照索引以及 Antigravity 哲人人格模拟 Skill（`gottfried-wilhelm-leibniz`）遵循 **[MIT License](file:///Users/aelzor/Downloads/戈特弗里德-威廉-莱布尼茨/LICENSE)**。
+- 欢迎广大学者、哲学爱好者、人工智能研究者自由分享、Fork、复用与二次创作！
+
+**项目公开分享链接**：[https://github.com/zxz686/gottfried-wilhelm-leibniz](https://github.com/zxz686/gottfried-wilhelm-leibniz)
+
